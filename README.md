@@ -1,5 +1,7 @@
 # raspberrypi-Pet-Detection-Twilio
 
+![Link to my YouTube video!](https://raw.githubusercontent.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi/master/doc/YouTube_video.png)
+
 TensorFlow MobileNet-SSD 모델을 사용하여 문 근처에 있는지 감지합니다. 
 이미지에서 "내부"영역과 "외부"영역의 두 영역을 정의하여 한 지역에서 5 개 이상의 연속 프레임 동안 애완 동물이 감지되면 스크립트는 Twilio를 사용하여 내 휴대폰에 문자 메시지를 보냅니다.
 
