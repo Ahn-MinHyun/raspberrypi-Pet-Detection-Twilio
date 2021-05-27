@@ -33,7 +33,7 @@ sudo vim Pet_detector.py
 ```
 
 - 65줄을 바꿔줍니다.
-- 
+
 ![image](https://user-images.githubusercontent.com/78781222/119787323-0d627080-bf0c-11eb-9313-91d0ad3524d1.png)
 
 ```
